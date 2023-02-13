@@ -1,0 +1,98 @@
+.mainBox{
+    width:100%;
+    height:100%;
+    background-color: #ebeef1;
+    display:flex;
+    justify-items: center;
+    align-items: center;
+}
+.Box{
+    width:400px;
+    height:600px;
+    margin:20px;
+   padding-top:20px;
+   box-shadow: 10px 10px 10px -1px rgba(10, 99, 169, 0.16),-10px -10px 10px -1px rgba(255, 255, 255, 0.70) ;
+}
+.Box1{
+background-color: #ebeef1;
+box-shadow: 10px 10px 10px -1px rgb(156, 143, 143),-10px -10px 10px -1px rgba(255, 255, 255, 0.705) ;
+position:relative;
+padding-left: 20px;
+}
+
+.Box2{
+    background-color:#ebeef1;
+    box-shadow: 10px 10px 10px -1px rgb(156, 143, 143),-10px -10px 10px -1px rgba(255, 255, 255, 0.705) ;
+position:relative;
+padding-left: 20px;
+}
+.Box3{
+    background-color: #ebeef1;
+    box-shadow: 10px 10px 10px -1px rgb(156, 143, 143),-10px -10px 10px -1px rgba(255, 255, 255, 0.705) ;
+position:relative;
+padding-left: 20px;
+}
+.Box4{
+    background-color: #ebeef1;
+    box-shadow: 10px 10px 10px -1px rgb(156, 143, 143),-10px -10px 10px -1px rgba(255, 255, 255, 0.705) ;
+position:relative;
+padding-left: 20px;
+}
+img{
+    width:250px;
+    border-radius:50%;
+    box-shadow: 10px 10px 10px -1px rgb(156, 143, 143),-10px -10px 10px -1px rgba(255, 255, 255, 0.459) ;
+    margin-right:20px;
+
+}
+p{
+    
+    box-shadow: 10px 10px 10px -1px rgb(156, 143, 143),-10px -10px 10px -1px rgba(255, 255, 255, 0.911) ;
+   margin-right:20px;
+    margin-top:20px;
+    justify-content: center;
+    justify-items: center;
+    
+
+}
+h1{
+    font-weight: bold;
+    box-shadow: 10px 10px 10px -1px rgb(156, 143, 143),-10px -10px 10px -1px rgb(255, 255, 255) ;
+    padding:2px;
+    text-align: center;
+    margin-right:20px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+
+}
+
+.logo1{
+    width:70px;
+    height:50px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px -1px rgb(156, 143, 143),-10px -10px 10px -1px rgb(255, 255, 255) ;
+    margin-top:20px;
+}
+.logo2{
+    width:70px;
+    height:50px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px -1px rgb(156, 143, 143),-10px -10px 10px -1px rgb(255, 255, 255) ;
+    margin-top:73px;
+}
+
+.logo3{
+    width:70px;
+    height:50px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px -1px rgb(156, 143, 143),-10px -10px 10px -1px rgb(255, 255, 255) ;
+    margin:22px;
+}
+
+.logo4{
+    width:70px;
+    height:50px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px -1px rgb(156, 143, 143),-10px -10px 10px -1px rgb(255, 255, 255) ;
+}
